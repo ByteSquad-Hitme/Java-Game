@@ -1,0 +1,20 @@
+
+helps in  gamezone 
+
+		//Setting up a start button
+//		startButton = new JButton("START");
+//		startButton.setBounds(350, 10 , 100 ,40);
+//		startButton.setBackground(Color.red);
+//		startButton.setFont(pixelMplus);
+//		startButton.setFont( startButton.getFont().deriveFont(Font.PLAIN, 20f));
+//		startButton.setBorderPainted(false);
+//		startButton.setFocusPainted(false);
+//		startButton.addActionListener(new ActionListener() {
+//			
+//			@Override
+//			public void actionPerformed(ActionEvent e) {
+//				gamethread g1 = new gamethread();
+//				g1.start();
+//			}
+//		});
+//		dashPanel.add(startButton);
